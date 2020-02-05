@@ -1,6 +1,6 @@
 # Pandas Tutorial Resources 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usgs.gov%2Fmedia%2Fimages%2Fgiant-panda-ailuropoda-melanoleuca&psig=AOvVaw13skh6FJOOfKe61Nm64sJj&ust=1581006848089000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD30dDruucCFQAAAAAdAAAAABAN)
+![](https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/Grosser_Panda.jpg)
 
 __Workbook__
 
